@@ -1,5 +1,5 @@
 
-###Medical Chatbot using ClinicalBERT and GPT-2
+### Medical Chatbot using ClinicalBERT and GPT-2
 This project is aimed at creating a medical chatbot that can interact with patients, answer their health-related queries, and provide them with personalized medical advice. The chatbot will be built using two of the most advanced natural language processing (NLP) models - ClinicalBERT and GPT-2.
 
 Introduction
